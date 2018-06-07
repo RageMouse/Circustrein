@@ -1,0 +1,6 @@
+E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\bin\Debug\Circustrein.Domain.dll
+E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\bin\Debug\Circustrein.Domain.pdb
+E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.csprojAssemblyReference.cache
+E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.csproj.CoreCompileInputs.cache
+E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.dll
+E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.pdb
