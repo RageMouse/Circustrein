@@ -7,3 +7,12 @@ E:\Downloads\Circustrein\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.c
 E:\Downloads\Circustrein\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.csproj.CopyComplete
 E:\Downloads\Circustrein\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.dll
 E:\Downloads\Circustrein\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\bin\Debug\Circustrein.DAL.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\bin\Debug\Circustrein.DAL.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\bin\Debug\Circustrein.Domain.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\bin\Debug\Circustrein.Domain.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.csprojAssemblyReference.cache
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.csproj.CopyComplete
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.DAL\obj\Debug\Circustrein.DAL.pdb

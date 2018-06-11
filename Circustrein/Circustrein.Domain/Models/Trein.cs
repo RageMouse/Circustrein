@@ -14,5 +14,10 @@ namespace Circustrein.Domain.Models
         {
             wagons = new List<Wagon>();
         }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }

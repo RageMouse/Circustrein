@@ -1,26 +1,25 @@
-﻿using Circustrein.DAL.Interfaces;
-using Circustrein.Domain.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Circustrein.DAL.Interfaces;
+using Circustrein.Domain.Models;
 
 namespace Circustrein.DAL
 {
-    public class AnimalRepository : IAnimalRepository
+    public class WagonRepository : IWagonRepository
     {
         private List<Animal> animals;
 
-        public AnimalRepository()
+        public WagonRepository()
         {
             animals = new List<Animal>();
         }
 
-        public List<Animal> GetAllAnimals()
+        public void AddAnimal(Animal animal)
         {
-            return animals;
+            animals.Add(animal);
         }
-
     }
 }

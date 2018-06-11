@@ -24,11 +24,6 @@ namespace Circustrein.Logic
             return _context.GetAllAnimals();
         }
 
-        public void AddAnimal(Animal animal)
-        {
-            _context.AddAnimal(animal);
-        }
-
         public Trein PerformAlghoritm()
         {
             Trein trein = new Trein();

@@ -4,3 +4,9 @@ E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Do
 E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.csproj.CoreCompileInputs.cache
 E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.dll
 E:\Downloads\Circustrein\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Domain\bin\Debug\Circustrein.Domain.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Domain\bin\Debug\Circustrein.Domain.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.csprojAssemblyReference.cache
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.csproj.CoreCompileInputs.cache
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Domain\obj\Debug\Circustrein.Domain.pdb

@@ -9,3 +9,14 @@ E:\Downloads\Circustrein\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Log
 E:\Downloads\Circustrein\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.csproj.CopyComplete
 E:\Downloads\Circustrein\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.dll
 E:\Downloads\Circustrein\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\bin\Debug\Circustrein.Logic.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\bin\Debug\Circustrein.Logic.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\bin\Debug\Circustrein.DAL.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\bin\Debug\Circustrein.Domain.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\bin\Debug\Circustrein.DAL.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\bin\Debug\Circustrein.Domain.pdb
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.csprojAssemblyReference.cache
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.csproj.CoreCompileInputs.cache
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.csproj.CopyComplete
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.dll
+D:\Downloads\Circustrein-master\Circustrein-master\Circustrein\Circustrein.Logic\obj\Debug\Circustrein.Logic.pdb

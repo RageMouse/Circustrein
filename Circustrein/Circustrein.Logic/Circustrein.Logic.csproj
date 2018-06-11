@@ -42,7 +42,9 @@
   <ItemGroup>
     <Compile Include="AnimalLogic.cs" />
     <Compile Include="Interfaces\IAnimalLogic.cs" />
+    <Compile Include="Interfaces\IWagonLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WagonLogic.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

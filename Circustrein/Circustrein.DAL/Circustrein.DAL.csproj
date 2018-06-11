@@ -42,7 +42,9 @@
   <ItemGroup>
     <Compile Include="AnimalRepository.cs" />
     <Compile Include="Interfaces\IAnimalRepository.cs" />
+    <Compile Include="Interfaces\IWagonRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WagonRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Circustrein.Domain\Circustrein.Domain.csproj">

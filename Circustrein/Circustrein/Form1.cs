@@ -17,12 +17,14 @@ namespace Circustrein
     public partial class Form1 : Form
     {
         private IAnimalLogic _context { get; set; }
+        private IWagonLogic _wagonContext { get; set; }
 
         public Form1()
         {
             InitializeComponent();
 
             _context = new AnimalLogic();
+            _wagonContext = new WagonLogic();
             lvWagon.Visible = false;
             cbSize.DataSource = Enum.GetValues(typeof(AnimalSize));
             cbFood.DataSource = Enum.GetValues(typeof(FoodType));
@@ -39,11 +41,12 @@ namespace Circustrein
                 //Aantal animals aanmaken
                 for (int i = 0; i < numAmountOfAnimals.Value; i++)
                 {
+
                     Animal a = new Animal();
                     a.animalSize = size;
                     a.foodType = foodtype;
                     a.points = points;
-                    _context.AddAnimal(a);
+                    _wagonContext.AddAnimal(a);
 
                     //Toevoegen aan listview
                     var item = new ListViewItem(new[] { cbSize.SelectedValue.ToString(), cbFood.SelectedValue.ToString(), points.ToString() });

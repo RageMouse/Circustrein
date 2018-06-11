@@ -1,16 +1,14 @@
-﻿using Circustrein.Domain.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Circustrein.Domain.Models;
 
 namespace Circustrein.Logic.Interfaces
 {
-    public interface IAnimalLogic
+    public interface IWagonLogic
     {
-        List<Animal> GetAllAnimals();
-
-        Trein PerformAlghoritm();
+            void AddAnimal(Animal animal);
     }
 }
